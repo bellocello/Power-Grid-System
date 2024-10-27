@@ -1,0 +1,16 @@
+100
+2
+Upper Point
+RESIDENT
+200
+300
+1
+2
+Bob bob
+Anna Ann
+Downtown Bayside
+COMMERCIAL
+100
+100
+1
+0
